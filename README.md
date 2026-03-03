@@ -16,7 +16,7 @@ This project implements an AI-driven system to automatically prioritize test cas
 | Theme Color Change         | Low       | Test Later |
 
 **Existing tools**
--- Tester manually marks:
+Tester manually marks:
 1.High
 2.Medium
 3.Low
@@ -36,7 +36,7 @@ Payment gateway \rightarrow High risk
 Profile picture upload \rightarrow Medium risk
 Theme color change \rightarrow Low risk
 -Reduces production failure risk.
---
+
 
 **Tech stack used**
 "Risk keyword model"
