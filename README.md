@@ -5,17 +5,19 @@
 
 **Overview**
 This project implements an AI-driven system to automatically prioritize test cases based on their risk impact. It helps QA teams focus on high-risk modules first, reducing the chance of production failures and improving software quality.
-<br>
+
 **Key Features**
-<br>
+
 --Detects critical modules like authentication, payment, security-sensitive flows, financial calculations, and data deletion features.
-<br>
+
 --Assigns risk scores to each module or feature automatically.
-<br>
+
 --Prioritizes test cases based on risk level: High, Medium, Low.
 
 --Suggests an optimized regression suite for faster testing cycles.
+
 --Reduces manual effort and human error in test planning.
+
 | Module / Feature           | Risk Score | Priority   |
 |----------------------------|:---------:|-----------|
 | Payment Gateway            | High      | Test First |
@@ -24,13 +26,20 @@ This project implements an AI-driven system to automatically prioritize test cas
 
 **Existing tools**
 Tester manually marks:
+
 1.High
+
 2.Medium
+
 3.Low
 **The Ai we built**
+
 Detects:
+
 Authentication modules
+
 Payment modules
+
 Security-sensitive flows
 Financial calculations
 Data deletion features
