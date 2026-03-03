@@ -57,11 +57,11 @@ Suggests regression suite
 
 Example:
 
-Payment gateway \rightarrow High risk
+Payment gateway High risk
 
-Profile picture upload \rightarrow Medium risk
+Profile picture upload Medium risk
 
-Theme color change \rightarrow Low risk
+Theme color change Low risk
 
 -Reduces production failure risk.
 
