@@ -1,8 +1,11 @@
 # Minor-project-
 “AI-powered QA Test Case Generator: Automatically converts software requirements into structured, prioritized test cases using LLMs for faster, consistent, and smarter testing.”
+<br>
 **AI-Powered Risk-Based Test Case Prioritization**
+<br>
 **Overview**
 This project implements an AI-driven system to automatically prioritize test cases based on their risk impact. It helps QA teams focus on high-risk modules first, reducing the chance of production failures and improving software quality.
+<br>
 **Key Features**
 --Detects critical modules like authentication, payment, security-sensitive flows, financial calculations, and data deletion features.
 --Assigns risk scores to each module or feature automatically.
