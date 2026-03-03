@@ -32,6 +32,7 @@ Tester manually marks:
 2.Medium
 
 3.Low
+
 **The Ai we built**
 
 Detects:
@@ -41,22 +42,38 @@ Authentication modules
 Payment modules
 
 Security-sensitive flows
+
 Financial calculations
+
 Data deletion features
+
 Then:
+
 Assigns risk score
+
 Automatically prioritizes test cases
+
 Suggests regression suite
+
 Example:
+
 Payment gateway \rightarrow High risk
+
 Profile picture upload \rightarrow Medium risk
+
 Theme color change \rightarrow Low risk
+
 -Reduces production failure risk.
 
 
 **Tech stack used**
+
 "Risk keyword model"
+
 "Classification model"
+
 "LLM-based risk scoring
+
 "Python backend"
+
 "Priority scoring algorithm"
