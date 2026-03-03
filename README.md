@@ -27,11 +27,11 @@ This project implements an AI-driven system to automatically prioritize test cas
 **Existing tools**
 Tester manually marks:
 
-1.High
+1.High (red colour-code)
 
-2.Medium
+2.Medium (orange colour-code)
 
-3.Low
+3.Low (green colour-code)
 
 **The Ai we built**
 
