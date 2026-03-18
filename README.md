@@ -77,3 +77,52 @@ Theme color change Low risk
 "Python backend"
 
 "Priority scoring algorithm"
+
+
+# AI-Powered QA Test Case Generation Agent
+
+This project implements a Risk-Based Prioritization system for QA testing using Python.
+
+## Features
+
+- Requirement risk detection
+- Risk score adjustment for sensitive modules
+- Automatic test prioritization
+- CSV export of prioritized test cases
+- Interactive Streamlit UI
+
+## Technologies Used
+
+- Python
+- Pandas
+- Streamlit
+- Machine Learning concepts
+
+## Project Structure
+
+Minor-project-
+│
+├── src
+│   ├── app.py
+│   ├── classification.py
+│   ├── priority.py
+│   ├── risk_keywords.py
+│   └── ui.py
+│
+├── output
+│   └── prioritized_tests.csv
+│
+├── requirements.txt
+└── README.md
+
+## How to Run
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the application:
+
+streamlit run src/ui.py
+
+

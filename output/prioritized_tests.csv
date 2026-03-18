@@ -1,1 +1,6 @@
 Module,Risk Score,Risk Level,Priority
+user authentication login ,6,Medium,Test Soon
+online payment transaction,8,High,Test First
+upload profile picture,2,Low,Test Later
+delete database record,4,Medium,Test Soon
+change theme colour,1,Low,Test Later
